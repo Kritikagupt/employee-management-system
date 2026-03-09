@@ -12,11 +12,13 @@ This project demonstrates backend development, database integration, and CRUD op
 - Perform CRUD operations through Django backend
 
 ## Technologies Used
+
 - Python
 - Django
-- SQL / SQLite
-- HTML / CSS (for templates)
-
+- HTML
+- CSS
+- SQLite Database
+  
 ## Project Structure
 
 EmployeeManagement/
