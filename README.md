@@ -1,6 +1,8 @@
 # Employee Management System
 
-A web-based employee management system developed using **Python and Django** that allows organizations to manage employee records through CRUD operations and database integration.
+A web-based application built using **Python and Django** to manage employee records, including adding, updating, viewing, and deleting employee information.
+
+This project demonstrates backend development, database integration, and CRUD operations.
 
 ## Features
 - Add new employee records
